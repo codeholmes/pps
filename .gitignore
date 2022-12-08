@@ -1,0 +1,11 @@
+*.db
+.DS_Store
+bin
+.vscode
+etc
+include
+lib
+share
+*.cfg
+mqtt.py
+__pycache__
